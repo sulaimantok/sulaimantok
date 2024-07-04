@@ -12,4 +12,4 @@
 [<img align="left" alt="SULAIMAN | Blogger" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg">][blogger]
 
 [linkedin]: https://www.linkedin.com/in/sulaiman-28/
-[blogger]: https://sulaiman.tech
+[blogger]: https://sulaiman28.blogspot.com/
