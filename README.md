@@ -1,15 +1,25 @@
-### Hi there 👋
+## 👋 Hello | مرحباً | 你好 | Halo
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sulaimantok&show_icons=true)
+Hi! I am **Sulaiman**, an Infrastructure & Cloud Engineer based in **Jakarta, Indonesia** 🇮🇩  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimantok&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/sulaimantok)
+I have interest in **Networking, Cloud Computing, DevOps and IT Infrastructure**.  
+Outside of work, I enjoy **running** and **exploring new technologies** to continuously grow and adapt 🏃‍♂️🚀
 
+---
 
+### 🌱 About Me
+- 💼 Currently working as an **Infrastructure & Cloud Engineer**
+- ☁️ Focus areas: **Network, Cloud, DevOps, and Infrastructure**
+- 🔍 Curious and always experimenting with **new technologies**
+- 🏃 Hobbies: **Running & trying out new tech**
 
-## Contact with Me
+---
 
-[<img align="left" alt="SULAIMAN - | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="SULAIMAN | Blogger" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg">][blogger]
+### 📫 How to Reach Me
+- 📧 Email: sulaiman[at]airatek.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/sulaiman-28/
+- ☁️ https://sulaiman28.blogspot.com/
 
-[linkedin]: https://www.linkedin.com/in/sulaiman-28/
-[blogger]: https://sulaiman28.blogspot.com/
+---
+
+> _“Build solid infrastructure, run strong systems, and keep improving.”_
