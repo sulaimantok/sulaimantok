@@ -3,15 +3,13 @@
 Hi! I am **Sulaiman**, an Infrastructure & Cloud Engineer based in **Jakarta, Indonesia** 🇮🇩  
 
 I have interest in **Networking, Cloud Computing, DevOps and IT Infrastructure**.  
-Outside of work, I enjoy **running** and **exploring new technologies** to continuously grow and adapt 🏃‍♂️🚀
+Outside of work, I enjoy **running**
 
 ---
 
 ### 🌱 About Me
 - 💼 Currently working as an **Infrastructure & Cloud Engineer**
 - ☁️ Focus areas: **Network, Cloud, DevOps, and Infrastructure**
-- 🔍 Curious and always experimenting with **new technologies**
-- 🏃 Hobbies: **Running & trying out new tech**
 
 ---
 
