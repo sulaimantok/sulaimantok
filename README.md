@@ -14,7 +14,6 @@ Outside of work, I enjoy **running**
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: sulaiman[at]airatek.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/sulaiman-28/
 - ☁️ https://sulaiman28.blogspot.com/
 
